@@ -1,0 +1,26 @@
+{
+  "Gender_dist": [
+    {
+      "Gender": "Male",
+      "freq": 49.3515
+    },
+    {
+      "Gender": "Female",
+      "freq": 49.6485
+    }
+  ],
+  "IncomeGroup_dist": [
+    {
+      "IncomeGroup": "B40",
+      "freq": 39.6
+    },
+    {
+      "IncomeGroup": "M40",
+      "freq": 39.6
+    },
+    {
+      "IncomeGroup": "T20",
+      "freq": 19.8
+    }
+  ]
+}

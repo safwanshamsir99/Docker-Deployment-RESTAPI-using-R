@@ -1,0 +1,598 @@
+{
+  "data": [
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "T20"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "3)Neutral",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "3)Neutral",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "T20"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "4)Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "4)Negative",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "3)Neutral",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "3)Neutral",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "3)Neutral",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "4)Negative",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "5)Very Negative",
+      "2. What is your dream job field?": "White Collar Jobs",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "T20"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "4)Negative",
+      "2. What is your dream job field?": "Entrepreneurship",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "IT or Technology",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Government",
+      "Gender": "Male",
+      "IncomeGroup": "M40"
+    },
+    {
+      "1. [LIKERT] Opinions": "2)Positive",
+      "2. What is your dream job field?": "Agriculture",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Male",
+      "IncomeGroup": "B40"
+    },
+    {
+      "1. [LIKERT] Opinions": "1)Very Positive",
+      "2. What is your dream job field?": "Others",
+      "Gender": "Female",
+      "IncomeGroup": "B40"
+    }
+  ]
+}
